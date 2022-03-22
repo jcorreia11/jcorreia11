@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Correia</h1>
 <h3 align="center">Ph.D. Student at University of Minho</h3>
+<h3 align="center">Collaborator at OmniumAI</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcorreia11&label=Profile%20views&color=0e75b6&style=flat" alt="jcorreia11" /> <img src="https://img.shields.io/github/followers/jcorreia11?style=social"/></p>
 
