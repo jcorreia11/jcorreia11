@@ -19,7 +19,7 @@ Research Topics :scroll::
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorreia11&layout=compact" alt="jcorreia11" /> </p>
 
-- 🔭 I’m currently working on [DeepMol](https://github.com/BioSystemsUM/DeepMol)
+- 🔭 I’m currently working on [BioCatalyzer](https://github.com/jcorreia11/BioCatalyzer)
 
 - 📫 How to reach me **jcorreia95@gmail.com**
 
