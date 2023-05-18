@@ -10,8 +10,9 @@ Research Topics :scroll::
 - Evolutionary Algorithms 🐜
 - Databases 🗃️
 
-
+<!---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcorreia11&label=Profile%20views&color=0e75b6&style=flat" alt="jcorreia11" /> <img src="https://img.shields.io/github/followers/jcorreia11?style=social"/></p>
+-->
 
 <p align="center"> <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjfscorreia"/><a href="https://twitter.com/jfscorreia" target="blank"><img src="https://img.shields.io/twitter/follow/jfscorreia?style=social" alt="jfscorreia" /></a> </p>
 
