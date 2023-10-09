@@ -22,7 +22,7 @@ Research Topics :scroll::
 
 - 🔭 I’m currently working on [DeepMol](https://github.com/BioSystemsUM/DeepMol/)
 
-- 📫 How to reach me **jcorreia95@gmail.com**
+- 📫 How to reach me **jfscorreia95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
