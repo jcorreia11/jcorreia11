@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Correia 👨‍🦱</h1>
 <h3 align="center">Ph.D. Student at University of Minho 🇵🇹</h3>
-<h3 align="center">Collaborator at OmniumAI 💻</h3>
+<h3 align="center">Software Developer at OmniumAI 💻</h3>
 
 Research Topics :scroll:: 
 
