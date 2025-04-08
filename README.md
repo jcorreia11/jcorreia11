@@ -8,7 +8,8 @@
 - 🐜 **Evolutionary Algorithms**   
 
 ### 📫 Contact  
-- **Email:** [jfscorreia95@gmail.com](mailto:jfscorreia95@gmail.com)  
+- **Email:** [jfscorreia95@gmail.com](mailto:jfscorreia95@gmail.com)
+- **Ciência ID:** [7A14-E57B-6C35](https://www.cienciavitae.pt/portal/en/7A14-E57B-6C35)
 - **ORCID:** [0000-0001-5190-4825](https://orcid.org/0000-0001-5190-4825)  
 - **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=JhT55LQAAAAJ&hl)
 
